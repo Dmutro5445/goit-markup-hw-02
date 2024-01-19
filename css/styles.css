@@ -29,9 +29,11 @@ a {
     line-height: 1.5; 
     letter-spacing: 0.02em;
    }
-   .nav-link:hover,
-   .nav-link:focus{
-    color: #2E2F42;
+   .nav-link:hover {
+    color: #404bbf;
+   }
+   .nav-link:focus {
+    color: #404bbf;
    }
    .address {
     font-style: normal;
@@ -53,9 +55,9 @@ a {
   }
   .hero-title {
     color: #FFF;
-    font-size: 56px;
+    font-size: 36px;
     font-weight: 700;
-    line-height: 1.07;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -68,13 +70,17 @@ a {
     letter-spacing: 0.04em;
     text-align: center;
     cursor: pointer; 
+    background-color: #4D5AE5;
   }
 
   .hero-button:hover{
     color: #404BBF;
+    background-color: #2E2F42;
+
   }
-  .hero-button {
-    cursor: pointer;
+    .hero-button:hover {
+      color: #404BBF; 
+      background-color: #2E2F42; 
   }
  
   .benefit-title {
@@ -87,7 +93,7 @@ a {
   }
   
 
-  .team-member-titl {
+  .team-member-title {
     color: #2e2f42;
     font-weight: 500;
     font-size: 20px;
@@ -96,7 +102,7 @@ a {
   }
   .team-member-role {
     color: #434455;
-    font-size: 16px
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
@@ -130,6 +136,10 @@ a {
     line-height: 1.17;
     letter-spacing: 0.3em;
     text-transform: uppercase;
+    
+    p {
+      color: #F4F4FD;
+  }
   }
   .logo-accent {
     color: #2E2F42;
