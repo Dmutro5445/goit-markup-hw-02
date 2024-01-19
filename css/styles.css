@@ -128,6 +128,13 @@ a {
     letter-spacing: 0.02em 
   }
 
+   .footer {
+    background-color: #2E2F42;
+    color:#FFF;
+    
+   }
+   
+   
   .logo {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
@@ -136,12 +143,11 @@ a {
     line-height: 1.17;
     letter-spacing: 0.3em;
     text-transform: uppercase;
-    
+
     p {
       color: #F4F4FD;
   }
   }
   .logo-accent {
-    color: #2E2F42;
+    color:  #F4F4FD;
   } 
- 
