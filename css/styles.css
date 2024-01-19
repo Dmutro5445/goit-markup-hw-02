@@ -70,7 +70,7 @@ a {
     cursor: pointer; 
   }
 
-  .hero-button:hover,{
+  .hero-button:hover{
     color: #404BBF;
   }
   .hero-button {
@@ -95,7 +95,6 @@ a {
     line-height: 1.2;
     letter-spacing: 0.02em;
   }
-
 
   .team-title {
     color: #2e2f42;
