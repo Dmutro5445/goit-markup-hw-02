@@ -86,11 +86,11 @@ cursor: pointer;
 
 }
 .page-main-button:hover {
-  background color: #404BBF;
+  background-color: #404BBF;
 }
 
   .page-main-button:focus{
-    background color: #404BBF;
+    background-color: #404BBF;
   }
 
 .page-advantages-item {
