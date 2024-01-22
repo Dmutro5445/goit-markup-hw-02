@@ -14,8 +14,9 @@ ul, li {
 background: #FFF;
 }
 
-.logo {
+.logo-web {
   color: #4D5AE5;
+  font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
@@ -24,12 +25,18 @@ text-transform: uppercase;
 }
 .logo-studio {
   color: #2E2F42;
+  font-family: "Raleway", sans-serif;
+font-size: 18px;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 }
 .menu-link {
 color: #2E2F42;
 font-size: 16px;
 font-weight: 500;
-line-height: 1.5; /* 150% */
+line-height: 1.5; 
 letter-spacing: 0.02;
 }
 .nav-link:hover,
@@ -55,20 +62,22 @@ letter-spacing: 0.02;
   background: #2E2F42;
 }
 .page-main-title {
-  color:  #FFF;
-text-align: center;
+  color:  #FFFFFF;
 font-size: 56px;
 font-weight: 700;
-line-height: 1.07x; 
+line-height: 1.07; 
 letter-spacing: 0.02em;
+text-align: center;
 }
 .page-main-button {
-  color: #FFF;
+  color: #FFFFFF;
   background: #4D5AE5;
+  font-family: "Roboto", sans-serif;
 font-size: 16px;
 font-weight: 500;
-line-height: 1.5; /* 150% */
+line-height: 1.5; 
 letter-spacing: 0.04em;
+cursor: pointer;
 
 }
 .page-main-button:hover,
@@ -119,12 +128,11 @@ letter-spacing: 0.02em;
 
 .page-portfolio {
   color: #2E2F42;
-text-align: center;
 font-size: 36px;
 font-weight: 700;
 line-height: 1.11; 
 letter-spacing: 0.02em;
-text-transform: capitalize;
+text-align: center;
 }
 
 .page-portfolio-list-iteam-title {
@@ -137,23 +145,6 @@ letter-spacing: 0.02em;
 .page-portfolio-list-iteam-text {
 letter-spacing: 0.02em;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .page-footer {
   background: #2E2F42;
 }
