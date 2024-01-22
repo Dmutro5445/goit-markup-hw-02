@@ -40,11 +40,11 @@ font-weight: 500;
 line-height: 1.5; 
 letter-spacing: 0.02em;
 }
-.nav-link:hover {
+.menu-link:hover {
   color: #404BBF;
 }
 
-.nav-link:focus {
+.menu-link:focus {
   color: #404BBF;
 }
  
@@ -88,10 +88,6 @@ cursor: pointer;
 .page-main-button:hover,
 .page-main-button:focus{
   background: #404BBF;
-}
-
-.page-advantages {
-  color: #2E2F42;
 }
 .page-advantages-item {
   color: #2E2F42;
