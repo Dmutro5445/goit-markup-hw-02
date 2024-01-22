@@ -87,7 +87,7 @@ cursor: pointer;
 }
 .page-main-button:hover,
 .page-main-button:focus{
-  background: #404BBF;
+  background color: #404BBF;
 }
 .page-advantages-item {
   color: #2E2F42;
@@ -144,7 +144,6 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 }
 .page-portfolio-list-iteam-text {
-  line-height: 1.5;
 letter-spacing: 0.02em;
 }
 .page-footer {
@@ -152,7 +151,7 @@ letter-spacing: 0.02em;
 }
 .logo-web {
   color: #4D5AE5;
-  font-family: Raleway, sans-serif;
+  font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
