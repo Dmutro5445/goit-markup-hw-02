@@ -85,10 +85,14 @@ letter-spacing: 0.04em;
 cursor: pointer;
 
 }
-.page-main-button:hover,
-.page-main-button:focus{
+.page-main-button:hover {
   background color: #404BBF;
 }
+
+  .page-main-button:focus{
+    background color: #404BBF;
+  }
+
 .page-advantages-item {
   color: #2E2F42;
 font-size: 20px;
